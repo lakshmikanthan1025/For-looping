@@ -1,0 +1,12 @@
+package programmingbasics;
+
+public class Forlooping2 {
+	
+	public static void main(String[]args) {
+		int[]marks= {65,72,83,100};
+		for(int i =0;i<4;i++) {
+			System.out.print(marks[i]+" ");
+		}
+	}
+
+}
