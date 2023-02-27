@@ -1,0 +1,13 @@
+package programmingbasics;
+
+public class Forlooping5 {
+	public static void main(String[]args) {
+		int[]marks= {77,89,96,93,99};
+		for(int i=0;i<marks.length;i++) {
+			if(marks[i]>90) {
+			System.out.print(marks[i]+" ");
+		}
+	}
+	}
+}
+
