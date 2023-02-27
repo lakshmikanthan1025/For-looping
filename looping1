@@ -1,0 +1,19 @@
+package programmingbasics;
+
+public class Forlooping1 {
+	public static void main(String []args) {
+	for(int no=1;no<=5;no++) {
+			System.out.print(no+" ");
+	}
+	}
+
+}
+//another way of programing
+public class Forlooping1 {
+	public static void main(String []args) {
+	for(int no=1;no<=5;no++) {
+			System.out.print(no+" ");
+		}
+	}
+
+}
